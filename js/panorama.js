@@ -1,5 +1,5 @@
 const panoImage = document.querySelector('.pano-image');
-const soyBeanImage = './assets/index/puente-paisaje.jpg';
+const soyBeanImage = './assets/index/sunsetfield.jpg';
 
 const panorama = new PANOLENS.ImagePanorama( soyBeanImage );
 const viewer = new PANOLENS.Viewer({
