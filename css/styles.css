@@ -54,7 +54,6 @@
   border:none;
   background:rgba(0, 0, 0, 0.4);
   background:#fff;
-  padding:20px 20px;
   color:#f1e1e1;
 }
 
@@ -183,4 +182,9 @@ header.masthead .site-heading .h1 {
 
 #MyAnimeListIcon:hover{
   color: blanchedalmond;
+}
+
+#CarouselAboutMe div {
+  height: 600px;
+  object-fit: cover;
 }
