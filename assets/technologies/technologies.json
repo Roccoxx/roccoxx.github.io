@@ -1,0 +1,100 @@
+{
+  "technologies": [
+    {
+      "name": "HTML",
+      "svgPath": "assets/technologies/html5.svg"
+    },
+    {
+      "name": "CSS",
+      "svgPath": "assets/technologies/css.svg"
+    },
+    {
+      "name": "Bootstrap",
+      "svgPath": "assets/technologies/bootstrap.svg"
+    },
+    {
+      "name": "Tailwind",
+      "svgPath": "assets/technologies/tailwind.svg"
+    },
+    {
+      "name": "JavaScript",
+      "svgPath": "assets/technologies/javascript.svg"
+    },
+    {
+      "name": "TypeScript",
+      "svgPath": "assets/technologies/typescript.svg"
+    },
+    {
+      "name": "Angular",
+      "svgPath": "assets/technologies/angular.svg"
+    },
+    {
+      "name": "PHP",
+      "svgPath": "assets/technologies/php.svg"
+    },
+    {
+      "name": "MySQL",
+      "svgPath": "assets/technologies/mysql.svg"
+    },
+    {
+      "name": "SQLite",
+      "svgPath": "assets/technologies/sqlite.svg"
+    },
+    {
+      "name": "Oracle",
+      "svgPath": "assets/technologies/oracle.svg"
+    },
+    {
+      "name": "MongoDB",
+      "svgPath": "assets/technologies/mongodb.svg"
+    },
+    {
+      "name": "Java",
+      "svgPath": "assets/technologies/java.svg"
+    },
+    {
+      "name": "Struts 2",
+      "svgPath": "assets/technologies/struts2.svg"
+    },
+    {
+      "name": "Spring",
+      "svgPath": "assets/technologies/spring.svg"
+    },
+    {
+      "name": "Quarkus",
+      "svgPath": "assets/technologies/quarkus.svg"
+    },
+    {
+      "name": "Android",
+      "svgPath": "assets/technologies/android.svg"
+    },
+    {
+      "name": "Pawn",
+      "svgPath": "assets/technologies/pawn.svg"
+    },
+    {
+      "name": "Amxmodx",
+      "svgPath": "assets/technologies/amxmodx.svg"
+    },
+    {
+      "name": "Golang",
+      "svgPath": "assets/technologies/golang.svg"
+    },
+    {
+      "name": "Elasticsearch",
+      "svgPath": "assets/technologies/elasticsearch.svg"
+    },
+    {
+      "name": "Office",
+      "svgPath": "assets/technologies/office-package.svg"
+    },
+    {
+      "name": "QGIS",
+      "svgPath": "assets/technologies/qgis.svg"
+    },
+    {
+      "name": "Git",
+      "svgPath": "assets/technologies/git.svg"
+    }
+  ]
+}
